@@ -3,16 +3,25 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Verb To Be</title>
 </head>
 <body>
-    <p id="score">0</p>
-    <p id="high-score">0</p>
+    <label for="score">Pontuação:</label>
+    <p id="score" class="inline">0</p>
+    <label for="high-score">Melhor pontuação:</label>
+    <p id="high-score" class="inline">0</p>
     <br>    
     <h3 id="sentence"></h3>
     <br>
-    <ul id="options"></ul>
+    <div id="options">
+        <button id="button-am">Am</button>
+        <button id="button-is">Is</button>
+        <button id="button-are">Are</button>
+    </div>
+    <br>
+    <button id="button-continue" class="hidden">Continuar</button>
 
-    <script src="script.js"></script>
+    <script src="assets/js/script.js"></script>
 </body>
 </html>
