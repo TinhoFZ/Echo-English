@@ -45,7 +45,7 @@ function checkAnswer(choice) {
   if (choice.innerText == x[currentType]) {
     score.innerText++;
     score.style.color = 'green';
-    if (score.innerText > highScore.innerText) {
+    if (score.innerText > parseInt(highScore.innerText)) {
       highScore.innerText = score.innerText;
     }
   } else {
