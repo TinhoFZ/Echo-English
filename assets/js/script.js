@@ -1,13 +1,13 @@
 let types, sentencesAm, sentencesIs, sentencesAre;
 
-fetch('/sentence')
+fetch('/api/sentence')
   .then(res => res.json())
   .then(json => {
     sentencesAm = json.am.split('\n');
     sentencesIs = json.is.split('\n');
     sentencesAre = json.are.split('\n');
 
-    types = [sentencesAm, sentencesIs, sentencesAre]
+    types = [sentencesAm, sentencesIs, sentencesAre];
     showSentence();
   })
   .catch(err => console.error(err));
