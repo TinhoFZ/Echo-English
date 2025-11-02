@@ -15,13 +15,23 @@ fetch('/api/sentence')
 
 const score = document.querySelector('#score');
 const highScore = document.querySelector('#high-score');
+
 const sentence = document.querySelector ('#sentence');
+
 const options = document.querySelector('#options');
 const buttonAm = document.querySelector('#button-am');
 const buttonIs = document.querySelector('#button-is');
 const buttonAre = document.querySelector('#button-are');
+
 const buttonContinue = document.querySelector('#button-continue');
 
+const difficulty = document.querySelector('#difficulty');
+const difficulty20 = document.querySelector('#difficulty-20');
+const difficulty50 = document.querySelector('#difficulty-50');
+const difficulty100 = document.querySelector('#difficulty-100');
+const difficultyShower = document.querySelector('#difficulty-shower');
+
+let sentencesAmount = 20;
 let currentType;
 
 function chooseType () {
@@ -31,7 +41,7 @@ function chooseType () {
 
 function chooseSentence() {
   let type = chooseType();
-  return type[Math.floor(Math.random() * (type.length))];
+  return type[Math.floor(Math.random() * (sentencesAmount))];
 }
 
 function showSentence() {
@@ -56,7 +66,15 @@ function checkAnswer(choice) {
   buttonContinue.style.display = 'inline-block';
 }
 
+function chooseDifficulty(totalSentences) {
+  sentencesAmount = totalSentences;
+  difficultyShower.innerText = `Atual dificuldade: ${totalSentences}`;
+}
+
 buttonAm.addEventListener('click', () => checkAnswer(buttonAm));
 buttonIs.addEventListener('click', () => checkAnswer(buttonIs));
 buttonAre.addEventListener('click', () => checkAnswer(buttonAre));
 buttonContinue.addEventListener('click', () => showSentence());
+difficulty20.addEventListener('click', () => chooseDifficulty(20));
+difficulty50.addEventListener('click', () => chooseDifficulty(50));
+difficulty100.addEventListener('click', () => chooseDifficulty(100));

@@ -1,0 +1,11 @@
+{
+  "name": "verb-to-be",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node assets/js/server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
