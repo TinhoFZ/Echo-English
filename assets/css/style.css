@@ -84,6 +84,52 @@ button:active {
     background-color: #574fd6;
 }
 
+#difficulty {
+    margin-top: 40px;
+    background-color: #ffffff;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    display: inline-block;
+    padding: 20px 30px;
+    text-align: center;
+}
+
+#difficulty p {
+    margin: 10px 0;
+    font-size: 1rem;
+    color: #444;
+}
+
+#difficulty button {
+    background-color: #e0e0e0;
+    color: #333;
+    border: none;
+    padding: 10px 18px;
+    margin: 5px;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all 0.25s ease;
+}
+
+#difficulty button:hover {
+    background-color: #6C63FF;
+    color: white;
+    transform: scale(1.05);
+}
+
+#difficulty button.active {
+    background-color: #6C63FF;
+    color: white;
+}
+
+#difficulty-shower {
+    font-size: 0.9rem;
+    color: #555;
+    margin-top: 8px;
+    font-style: italic;
+}
+
 .hidden {
     display: none;
 }

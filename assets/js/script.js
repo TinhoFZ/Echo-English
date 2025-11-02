@@ -1,3 +1,8 @@
+const correctSound = new Audio('assets/sounds/correct_sound.mp3');
+const incorrectSound = new Audio('assets/sounds/incorrect_sound.mp3');
+correctSound.volume = 0.5;
+incorrectSound.volume = 0.5;
+
 let types, sentencesAm, sentencesIs, sentencesAre;
 
 fetch('/api/sentence')
@@ -53,12 +58,14 @@ function showSentence() {
 function checkAnswer(choice) {
   let x = ['Am', 'Is', 'Are'];
   if (choice.innerText == x[currentType]) {
+    correctSound.play();
     score.innerText++;
     score.style.color = 'green';
     if (score.innerText > parseInt(highScore.innerText)) {
       highScore.innerText = score.innerText;
     }
   } else {
+    incorrectSound.play();
     score.style.color = 'red';
     score.innerText = 0;
   }
