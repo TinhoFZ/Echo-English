@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="assets/css/listening.css">
+    <title>Echo English - Listening</title>
+</head>
+<body>
+    <div id="scores">
+        <label for="score">Pontuação:</label>
+        <p id="score" class="inline">0</p>
+        <label for="high-score">Melhor pontuação:</label>
+        <p id="high-score" class="inline">0</p>
+    </div>
+
+    <button id="listen">Ouvir</button>
+
+    <div id="answer">
+        <input id="input-answer" placeholder="Insira a sua resposta">
+        <button id="button-answer">Enviar</button>
+    </div>
+
+    <div id="finish" class="hidden">
+        <p id="text-solution"></p>
+        <button id="button-continue">Continuar</button>
+    </div>
+    
+    <div id="categories">
+        <button id="button-pronouns">Pronouns</button>
+        <button id="button-verbs">Verbs</button>
+    </div>
+
+    <div id="pages">
+        <button id="index">Verb To Be</button>
+        <button id="listening">Listening</button>
+    </div>
+
+    <script src="assets/js/scores.js"></script>
+    <script src="assets/js/changePages.js"></script>
+    <script src="assets/js/listening.js"></script>
+</body>
+</html>

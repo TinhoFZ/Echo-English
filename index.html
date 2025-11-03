@@ -4,13 +4,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="assets/css/style.css">
-    <title>Verb To Be</title>
+    <link rel="stylesheet" href="assets/css/verbToBe.css">
+    <title>Echo English - Verb to be</title>
 </head>
 <body>
-    <label for="score">Pontuação:</label>
-    <p id="score" class="inline">0</p>
-    <label for="high-score">Melhor pontuação:</label>
-    <p id="high-score" class="inline">0</p>
+    <div id="scores">
+        <label for="score">Pontuação:</label>
+        <p id="score" class="inline">0</p>
+        <label for="high-score">Melhor pontuação:</label>
+        <p id="high-score" class="inline">0</p>
+    </div>
     <br>    
     <h3 id="sentence"></h3>
     <br>
@@ -30,6 +33,15 @@
         <p id="difficulty-shower">Atual dificuldade: 20</p>
     </div>
 
-    <script src="assets/js/script.js"></script>
+    <br>
+
+    <div id="pages">
+        <button id="index">Verb To Be</button>
+        <button id="listening">Listening</button>
+    </div>
+    
+    <script src="assets/js/scores.js"></script>
+    <script src="assets/js/changePages.js"></script>
+    <script src="assets/js/verbToBe.js"></script>
 </body>
 </html>

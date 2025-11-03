@@ -1,0 +1,69 @@
+const listen = document.querySelector('#listen');
+
+const answer = document.querySelector('#answer');
+const inputAnswer = document.querySelector('#input-answer');
+const buttonAnswer = document.querySelector('#button-answer');
+
+const finish = document.querySelector('#finish');
+const textSolution = document.querySelector('#text-solution');
+const buttonContinue = document.querySelector('#button-continue');
+
+const buttonPronouns = document.querySelector('#button-pronouns');
+const buttonVerbs = document.querySelector('#button-verbs');
+
+
+let currentCategory = 0;
+let currentAudio;
+let solution;
+
+let pronouns = [];
+let verbs = [];
+let categories = [pronouns, verbs];
+
+fetch('assets/sounds/words/words.json')
+    .then(res => res.json())
+    .then(sounds => {
+        sounds.pronouns.forEach(element => {
+            const audio = new Audio(`assets/sounds/words/pronouns/${element}`);
+            pronouns.push(audio);
+        });
+        sounds.verbs.forEach(element => {
+            const audio = new Audio(`assets/sounds/words/verbs/${element}`);
+            verbs.push(audio);
+        })
+
+        chooseAudio();
+    })
+    .catch(err => console.error(err));
+
+
+
+function chooseCategory(newCategory) {
+    currentCategory = categories.indexOf(newCategory);
+}
+
+function chooseAudio() {
+    answer.style.display = 'inline-block';
+    finish.style.display = 'none';
+    let category = categories[currentCategory];
+
+    currentAudio = category[Math.floor(Math.random() * category.length)];
+    let audioPath = currentAudio.src.split('/'); 
+    solution = audioPath[audioPath.length - 1];
+    solution = solution.split('.');
+    solution = solution[0]
+    textSolution.innerText = `Resposta correta: ${solution}`;
+}
+
+function checkAnswer() {
+    inputAnswer.value == solution ? scorePoint() : resetScore();
+    inputAnswer.value = '';
+    answer.style.display = 'none';
+    finish.style.display = 'inline-block';
+}
+
+listen.addEventListener('click', () => currentAudio.play());
+buttonAnswer.addEventListener('click', () => checkAnswer());
+buttonContinue.addEventListener('click', () => chooseAudio());
+buttonPronouns.addEventListener('click', () => chooseCategory(pronouns));
+buttonVerbs.addEventListener('click', () => chooseCategory(verbs));

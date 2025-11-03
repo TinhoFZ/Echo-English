@@ -1,26 +1,3 @@
-const correctSound = new Audio('assets/sounds/correct_sound.mp3');
-const incorrectSound = new Audio('assets/sounds/incorrect_sound.mp3');
-correctSound.volume = 0.5;
-incorrectSound.volume = 0.5;
-
-let types, sentencesAm, sentencesIs, sentencesAre;
-
-fetch('/api/sentence')
-  .then(res => res.json())
-  .then(json => {
-    sentencesAm = json.am.split('\n');
-    sentencesIs = json.is.split('\n');
-    sentencesAre = json.are.split('\n');
-
-    types = [sentencesAm, sentencesIs, sentencesAre];
-    showSentence();
-  })
-  .catch(err => console.error(err));
-
-
-const score = document.querySelector('#score');
-const highScore = document.querySelector('#high-score');
-
 const sentence = document.querySelector ('#sentence');
 
 const options = document.querySelector('#options');
@@ -38,6 +15,21 @@ const difficultyShower = document.querySelector('#difficulty-shower');
 
 let sentencesAmount = 20;
 let currentType;
+
+let types, sentencesAm, sentencesIs, sentencesAre;
+
+fetch('/api/sentence')
+  .then(res => res.json())
+  .then(json => {
+    sentencesAm = json.am.split('\n');
+    sentencesIs = json.is.split('\n');
+    sentencesAre = json.are.split('\n');
+
+    types = [sentencesAm, sentencesIs, sentencesAre];
+    showSentence();
+  })
+  .catch(err => console.error(err));
+  
 
 function chooseType () {
   currentType = Math.floor(Math.random() * types.length)
@@ -57,18 +49,7 @@ function showSentence() {
 
 function checkAnswer(choice) {
   let x = ['Am', 'Is', 'Are'];
-  if (choice.innerText == x[currentType]) {
-    correctSound.play();
-    score.innerText++;
-    score.style.color = 'green';
-    if (score.innerText > parseInt(highScore.innerText)) {
-      highScore.innerText = score.innerText;
-    }
-  } else {
-    incorrectSound.play();
-    score.style.color = 'red';
-    score.innerText = 0;
-  }
+  choice.innerText == x[currentType] ? scorePoint() : resetScore();
   options.style.display = 'none';
   buttonContinue.style.display = 'inline-block';
 }

@@ -1,0 +1,6 @@
+{
+    "titles": ["pronouns.mp3", "verbs.mp3"],
+    "pronouns": ["he.mp3", "her.mp3", "him.mp3", "i.mp3", "it.mp3", "me.mp3", "she.mp3", "they.mp3", "we.mp3", "you.mp3"],
+    "verbs": ["be.mp3", "call.mp3", "come.mp3", "do.mp3", "find.mp3", "get.mp3", "give.mp3", "go.mp3", "have.mp3", "know.mp3", 
+    "like.mp3", "make.mp3", "need.mp3", "say.mp3", "see.mp3", "take.mp3", "think.mp3", "use.mp3", "want.mp3", "work.mp3"]
+}
