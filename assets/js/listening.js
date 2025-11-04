@@ -10,6 +10,9 @@ const buttonContinue = document.querySelector('#button-continue');
 
 const buttonPronouns = document.querySelector('#button-pronouns');
 const buttonVerbs = document.querySelector('#button-verbs');
+const buttonObjects = document.querySelector('#button-objects');
+const buttonAdjectives = document.querySelector('#button-adjectives');
+const buttonFunctionals = document.querySelector('#button-functionals');
 
 
 let currentCategory = 0;
@@ -18,7 +21,10 @@ let solution;
 
 let pronouns = [];
 let verbs = [];
-let categories = [pronouns, verbs];
+let objects = [];
+let adjectives = [];
+let functionals = [];
+let categories = [pronouns, verbs, objects, adjectives, functionals];
 let titles = [];
 
 fetch('assets/sounds/words/words.json')
@@ -31,6 +37,18 @@ fetch('assets/sounds/words/words.json')
         sounds.verbs.forEach(element => {
             const audio = new Audio(`assets/sounds/words/verbs/${element}`);
             verbs.push(audio);
+        })
+        sounds.objects.forEach(element => {
+            const audio = new Audio(`assets/sounds/words/objects_places/${element}`);
+            objects.push(audio);
+        })        
+        sounds.adjectives.forEach(element => {
+            const audio = new Audio(`assets/sounds/words/adjectives/${element}`);
+            adjectives.push(audio);
+        })
+        sounds.functionals.forEach(element => {
+            const audio = new Audio(`assets/sounds/words/functional_frequent_words/${element}`);
+            functionals.push(audio);
         })
         sounds.titles.forEach(element => {
             const audio = new Audio(`assets/sounds/words/titles/${element}`);
@@ -83,6 +101,30 @@ buttonVerbs.addEventListener('click', () => {
     chooseCategory(verbs)
     titles.forEach(audio => {
         if (audio.src.includes('verbs')) {
+            audio.play();
+        }
+    })
+});
+buttonObjects.addEventListener('click', () => {
+    chooseCategory(objects)
+    titles.forEach(audio => {
+        if (audio.src.includes('objects')) {
+            audio.play();
+        }
+    })
+});
+buttonAdjectives.addEventListener('click', () => {
+    chooseCategory(adjectives)
+    titles.forEach(audio => {
+        if (audio.src.includes('adjectives')) {
+            audio.play();
+        }
+    })
+});
+buttonFunctionals.addEventListener('click', () => {
+    chooseCategory(functionals)
+    titles.forEach(audio => {
+        if (audio.src.includes('functionals')) {
             audio.play();
         }
     })

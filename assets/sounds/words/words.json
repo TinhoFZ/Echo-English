@@ -1,6 +1,16 @@
 {
-    "titles": ["pronouns.mp3", "verbs.mp3"],
+    "titles": ["pronouns.mp3", "verbs.mp3", "objects.mp3", "adjectives.mp3", "functionals.mp3"],
     "pronouns": ["he.mp3", "her.mp3", "him.mp3", "i.mp3", "it.mp3", "me.mp3", "she.mp3", "they.mp3", "we.mp3", "you.mp3"],
+
     "verbs": ["be.mp3", "call.mp3", "come.mp3", "do.mp3", "find.mp3", "get.mp3", "give.mp3", "go.mp3", "have.mp3", "know.mp3", 
-    "like.mp3", "make.mp3", "need.mp3", "say.mp3", "see.mp3", "take.mp3", "think.mp3", "use.mp3", "want.mp3", "work.mp3"]
+        "like.mp3", "make.mp3", "need.mp3", "say.mp3", "see.mp3", "take.mp3", "think.mp3", "use.mp3", "want.mp3", "work.mp3"],
+
+    "objects": ["bag.mp3", "bed.mp3", "book.mp3", "car.mp3", "chair.mp3", "city.mp3", "door.mp3", "food.mp3", "house.mp3", "pen.mp3",
+        "phone.mp3", "room.mp3", "school.mp3", "shoe.mp3", "store.mp3", "street.mp3", "table.mp3", "tree.mp3", "water.mp3", "window.mp3"],
+
+    "adjectives": ["bad.mp3", "big.mp3", "clean.mp3", "cold.mp3", "dirty.mp3", "easy.mp3", "fast.mp3", "good.mp3", "happy.mp3", "hard.mp3",
+        "hot.mp3", "long.mp3", "new.mp3", "nice.mp3", "old.mp3", "sad.mp3", "short.mp3", "slow.mp3", "small.mp3", "young.mp3"],
+
+    "functionals": ["and.mp3", "at.mp3", "but.mp3", "down.mp3", "for.mp3", "from.mp3", "in.mp3", "my.mp3", "no.mp3", "not.mp3",
+        "of.mp3", "on.mp3", "or.mp3", "their.mp3", "to.mp3", "under.mp3", "up.mp3", "with.mp3", "yes.mp3", "your.mp3"]
 }
