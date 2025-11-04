@@ -19,6 +19,7 @@ let solution;
 let pronouns = [];
 let verbs = [];
 let categories = [pronouns, verbs];
+let titles = [];
 
 fetch('assets/sounds/words/words.json')
     .then(res => res.json())
@@ -31,6 +32,10 @@ fetch('assets/sounds/words/words.json')
             const audio = new Audio(`assets/sounds/words/verbs/${element}`);
             verbs.push(audio);
         })
+        sounds.titles.forEach(element => {
+            const audio = new Audio(`assets/sounds/words/titles/${element}`);
+            titles.push(audio);
+        })
 
         chooseAudio();
     })
@@ -40,6 +45,7 @@ fetch('assets/sounds/words/words.json')
 
 function chooseCategory(newCategory) {
     currentCategory = categories.indexOf(newCategory);
+    chooseAudio();
 }
 
 function chooseAudio() {
@@ -65,5 +71,19 @@ function checkAnswer() {
 listen.addEventListener('click', () => currentAudio.play());
 buttonAnswer.addEventListener('click', () => checkAnswer());
 buttonContinue.addEventListener('click', () => chooseAudio());
-buttonPronouns.addEventListener('click', () => chooseCategory(pronouns));
-buttonVerbs.addEventListener('click', () => chooseCategory(verbs));
+buttonPronouns.addEventListener('click', () => {
+    chooseCategory(pronouns)
+    titles.forEach(audio => {
+        if (audio.src.includes('pronouns')) {
+            audio.play();
+        }
+    })
+});
+buttonVerbs.addEventListener('click', () => {
+    chooseCategory(verbs)
+    titles.forEach(audio => {
+        if (audio.src.includes('verbs')) {
+            audio.play();
+        }
+    })
+});
