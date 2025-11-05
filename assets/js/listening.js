@@ -14,6 +14,31 @@ const buttonObjects = document.querySelector('#button-objects');
 const buttonAdjectives = document.querySelector('#button-adjectives');
 const buttonFunctionals = document.querySelector('#button-functionals');
 
+const popupHtml = `
+    <h3>Informações</h3>
+    <p>👨‍🏫 Pronomes e Pessoas (10)<br>
+    I<br>you<br>he<br>she<br>it<br>we<br>they<br>me<br>him<br>her<br><br>
+
+    🕰️ Verbos Comuns (20)<br>
+    be<br>have<br>do<br>go<br>come<br>see<br>get<br>make<br>say<br>want<br>
+    like<br>know<br>think<br>need<br>give<br>take<br>use<br>find<br>call<br>work<br><br>
+
+    🏠 Objetos e Lugares (20)<br>
+    house<br>car<br>school<br>street<br>book<br>door<br>chair<br>table<br>
+    window<br>phone<br>bed<br>room<br>pen<br>bag<br>tree<br>water<br>
+    food<br>shoe<br>city<br>store<br><br>
+
+    🎯 Adjetivos e Descrições (20)<br>
+    good<br>bad<br>big<br>small<br>happy<br>sad<br>old<br>young<br>hot<br>cold<br>
+    fast<br>slow<br>easy<br>hard<br>new<br>long<br>short<br>nice<br>clean<br>dirty<br><br>
+
+    💬 Palavras Funcionais e Frequentes (20)<br>
+    yes<br>no<br>not<br>and<br>or<br>but<br>in<br>on<br>at<br>under<br>
+    up<br>down<br>to<br>from<br>with<br>for<br>of<br>my<br>your<br>their</p>
+
+    <button class="close-popup">Fechar</button>
+`;
+
 
 let currentCategory = 0;
 let currentAudio;
@@ -129,3 +154,4 @@ buttonFunctionals.addEventListener('click', () => {
         }
     })
 });
+document.querySelector('#show-info').addEventListener('click', () => createPopup(popupHtml));
