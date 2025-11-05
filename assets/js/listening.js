@@ -15,26 +15,48 @@ const buttonAdjectives = document.querySelector('#button-adjectives');
 const buttonFunctionals = document.querySelector('#button-functionals');
 
 const popupHtml = `
-    <h3>Informações</h3>
-    <p>👨‍🏫 Pronomes e Pessoas (10)<br>
-    I<br>you<br>he<br>she<br>it<br>we<br>they<br>me<br>him<br>her<br><br>
+    <div id="popup-buttons">
+        <button id="popup-pronouns">Pronomes</button>
+        <button id="popup-verbs">Verbos</button>
+        <button id="popup-objects">Objetos</button>
+        <button id="popup-adjectives">Adjetivos</button>
+        <button id="popup-functionals">Funcionais</button>
+    </div>
 
-    🕰️ Verbos Comuns (20)<br>
-    be<br>have<br>do<br>go<br>come<br>see<br>get<br>make<br>say<br>want<br>
-    like<br>know<br>think<br>need<br>give<br>take<br>use<br>find<br>call<br>work<br><br>
+    <p id="text-popup-pronouns">👨‍🏫 Pronomes e Pessoas (10)<br>
+    I - eu<br>you - você<br>he - ele<br>she - ela<br>it - isso/ele/ela (objeto ou animal)<br>
+    we - nós<br>they - eles/elas<br>me - mim/me<br>him - ele/o<br>her - ela/a<br>
+    </p>
 
-    🏠 Objetos e Lugares (20)<br>
-    house<br>car<br>school<br>street<br>book<br>door<br>chair<br>table<br>
-    window<br>phone<br>bed<br>room<br>pen<br>bag<br>tree<br>water<br>
-    food<br>shoe<br>city<br>store<br><br>
+    <p id="text-popup-verbs" class='hidden'>🕰️ Verbos Comuns (20)<br>
+    be - ser/estar<br>have - ter<br>do - fazer<br>go - ir<br>come - vir<br>see - ver<br>
+    get - obter/pegar<br>make - fazer/criar<br>say - dizer<br>want - querer<br>
+    like - gostar<br>know - saber/conhecer<br>think - pensar<br>need - precisar<br>
+    give - dar<br>take - levar/pegar<br>use - usar<br>find - encontrar<br>
+    call - chamar/ligar<br>work - trabalhar<br>
+    </p>
 
-    🎯 Adjetivos e Descrições (20)<br>
-    good<br>bad<br>big<br>small<br>happy<br>sad<br>old<br>young<br>hot<br>cold<br>
-    fast<br>slow<br>easy<br>hard<br>new<br>long<br>short<br>nice<br>clean<br>dirty<br><br>
+    <p id="text-popup-objects" class='hidden'>🏠 Objetos e Lugares (20)<br>
+    house - casa<br>car - carro<br>school - escola<br>street - rua<br>book - livro<br>
+    door - porta<br>chair - cadeira<br>table - mesa<br>window - janela<br>phone - telefone<br>
+    bed - cama<br>room - quarto<br>pen - caneta<br>bag - bolsa/mochila<br>tree - árvore<br>
+    water - água<br>food - comida<br>shoe - sapato<br>city - cidade<br>store - loja<br>
+    </p>
 
-    💬 Palavras Funcionais e Frequentes (20)<br>
-    yes<br>no<br>not<br>and<br>or<br>but<br>in<br>on<br>at<br>under<br>
-    up<br>down<br>to<br>from<br>with<br>for<br>of<br>my<br>your<br>their</p>
+    <p id="text-popup-adjectives" class='hidden'>🎯 Adjetivos e Descrições (20)<br>
+    good - bom<br>bad - ruim<br>big - grande<br>small - pequeno<br>happy - feliz<br>
+    sad - triste<br>old - velho<br>young - jovem<br>hot - quente<br>cold - frio<br>
+    fast - rápido<br>slow - lento<br>easy - fácil<br>hard - difícil<br>new - novo<br>
+    long - longo<br>short - curto<br>nice - legal/simpático<br>clean - limpo<br>dirty - sujo<br>
+    </p>
+
+    <p id="text-popup-functionals" class='hidden'>💬 Palavras Funcionais e Frequentes (20)<br>
+    yes - sim<br>no - não<br>not - não<br>and - e<br>or - ou<br>but - mas<br>
+    in - em/dentro<br>on - sobre/em cima<br>at - em/no/na<br>under - debaixo<br>
+    up - acima<br>down - abaixo<br>to - para/a<br>from - de<br>with - com<br>
+    for - para/por<br>of - de<br>my - meu/minha<br>your - seu/sua<br>their - deles/delas<br>
+    </p>
+
 
     <button class="close-popup">Fechar</button>
 `;
