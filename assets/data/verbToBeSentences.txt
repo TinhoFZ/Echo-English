@@ -1,0 +1,344 @@
+<div id="popup-buttons">
+  <button id="popup-am">Am</button>
+  <button id="popup-is">Is</button>
+  <button id="popup-are">Are</button>
+</div>
+
+<p id="text-popup-am">
+
+  <br>------------ Easy - Fácil ------------<br><br>
+
+  1. I ___ happy today - Eu ___ feliz hoje<br>
+  2. I ___ at school - Eu ___ na escola<br>
+  3. I ___ reading a book - Eu ___ lendo um livro<br>
+  4. I ___ eating breakfast - Eu ___ tomando café da manhã<br>
+  5. I ___ watching TV - Eu ___ assistindo TV<br>
+  6. I ___ going to bed - Eu ___ indo dormir<br>
+  7. I ___ feeling great - Eu ___ me sentindo ótimo<br>
+  8. I ___ walking to work - Eu ___ indo a pé para o trabalho<br>
+  9. I ___ playing a game - Eu ___ jogando um jogo<br>
+  10. I ___ listening to music - Eu ___ ouvindo música<br>
+  11. I ___ learning English - Eu ___ aprendendo inglês<br>
+  12. I ___ writing my notes - Eu ___ escrevendo minhas anotações<br>
+  13. I ___ doing my homework - Eu ___ fazendo minha lição de casa<br>
+  14. I ___ studying now - Eu ___ estudando agora<br>
+  15. I ___ waiting for the bus - Eu ___ esperando o ônibus<br>
+  16. I ___ at the park - Eu ___ no parque<br>
+  17. I ___ drinking coffee - Eu ___ bebendo café<br>
+  18. I ___ talking to my friend - Eu ___ conversando com meu amigo<br>
+  19. I ___ thinking about lunch - Eu ___ pensando no almoço<br>
+  20. I ___ ready for class - Eu ___ pronto para a aula<br>
+
+  <br>------------ Medium - Médio ------------<br><br>
+
+  21. In the morning, I ___ usually tired - De manhã, eu ___ geralmente cansado<br>
+  22. I always forget where I ___ supposed to be - Eu sempre esqueço onde eu ___ deveria estar<br>
+  23. I ___ not sure what time it is - Eu ___ não tenho certeza que horas são<br>
+  24. Sometimes I ___ late for work - Às vezes eu ___ atrasado para o trabalho<br>
+  25. I ___ the one who cleans the kitchen - Eu ___ quem limpa a cozinha<br>
+  26. I ___ really focused on this task - Eu ___ realmente focado nesta tarefa<br>
+  27. Right now, I ___ waiting outside - Agora mesmo eu ___ esperando lá fora<br>
+  28. When it rains, I ___ usually at home - Quando chove, eu ___ geralmente em casa<br>
+  29. I ___ proud of my progress - Eu ___ orgulhoso do meu progresso<br>
+  30. I ___ not interested in that movie - Eu ___ não estou interessado nesse filme<br>
+  31. I ___ feeling a bit nervous today - Eu ___ me sentindo um pouco nervoso hoje<br>
+  32. Even when I ___ busy, I read a little - Mesmo quando eu ___ ocupado, eu leio um pouco<br>
+  33. I ___ not good at cooking yet - Eu ___ ainda não sou bom em cozinhar<br>
+  34. I ___ still trying to improve - Eu ___ ainda tentando melhorar<br>
+  35. People say I ___ too quiet sometimes - As pessoas dizem que eu ___ quieto demais às vezes<br>
+  36. When I ___ done, I’ll call you - Quando eu ___ terminar, eu te ligarei<br>
+  37. I ___ always early to meetings - Eu ___ sempre cedo para as reuniões<br>
+  38. If I ___ correct, that’s her house - Se eu ___ estiver certo, essa é a casa dela<br>
+  39. I ___ enjoying the quiet this morning - Eu ___ aproveitando o silêncio desta manhã<br>
+  40. I ___ not sure how to say this - Eu ___ não tenho certeza de como dizer isso<br>
+  41. I often wonder why I ___ so tired - Eu frequentemente me pergunto por que eu ___ tão cansado<br>
+  42. Sometimes I forget I ___ human - Às vezes eu esqueço que eu ___ humano<br>
+  43. I ___ learning to be patient - Eu ___ aprendendo a ser paciente<br>
+  44. I ___ finally starting to relax - Eu ___ finalmente começando a relaxar<br>
+  45. I ___ more confident than before - Eu ___ mais confiante do que antes<br>
+  46. When I ___ working, time passes fast - Quando eu ___ trabalhando, o tempo passa rápido<br>
+  47. I ___ lucky to have good friends - Eu ___ sortudo por ter bons amigos<br>
+  48. I ___ happy you called me today - Eu ___ feliz que você me ligou hoje<br>
+  49. Even when I ___ scared, I try again - Mesmo quando eu ___ com medo, eu tento novamente<br>
+  50. I ___ always trying to do better - Eu ___ sempre tentando fazer melhor<br>
+
+  <br>------------ Hard - Difícil ------------<br><br>
+  
+  51. After a long day, I ___ completely exhausted - Depois de um longo dia, eu ___ completamente exausto<br>
+  52. I ___ not the kind of person who gives up - Eu ___ não sou o tipo de pessoa que desiste<br>
+  53. The reason I ___ here is to learn - A razão de eu ___ estar aqui é aprender<br>
+  54. I ___ certain that this will work - Eu ___ certo de que isso vai funcionar<br>
+  55. When everyone’s asleep, I ___ still awake - Quando todos estão dormindo, eu ___ ainda acordado<br>
+  56. I ___ thinking about my next goal - Eu ___ pensando no meu próximo objetivo<br>
+  57. Some days I ___ full of energy, others not - Alguns dias eu ___ cheio de energia, outros não<br>
+  58. I ___ beginning to understand myself - Eu ___ começando a me entender<br>
+  59. Even when I’m quiet, I ___ listening - Mesmo quando estou quieto, eu ___ ouvindo<br>
+  60. I ___ the only one who saw what happened - Eu ___ o único que viu o que aconteceu<br>
+  61. Whenever I travel, I ___ amazed by people - Sempre que viajo, eu ___ impressionado com as pessoas<br>
+  62. I ___ trying to find balance in my life - Eu ___ tentando encontrar equilíbrio na minha vida<br>
+  63. I ___ not afraid to make mistakes anymore - Eu ___ não tenho mais medo de errar<br>
+  64. I ___ learning to manage my time better - Eu ___ aprendendo a gerenciar melhor meu tempo<br>
+  65. No matter what, I ___ grateful for today - Não importa o que aconteça, eu ___ grato por hoje<br>
+  66. I ___ still unsure about the decision - Eu ___ ainda inseguro sobre a decisão<br>
+  67. I ___ focused on small steps every day - Eu ___ focado em pequenos passos todos os dias<br>
+  68. Whenever I feel lost, I ___ writing again - Sempre que me sinto perdido, eu ___ escrevendo novamente<br>
+  69. I ___ proud of how far I’ve come - Eu ___ orgulhoso de até onde cheguei<br>
+  70. I ___ ready to move forward - Eu ___ pronto para seguir em frente<br>
+  71. After all these years, I ___ still curious - Depois de todos esses anos, eu ___ ainda curioso<br>
+  72. I ___ wondering what life will bring next - Eu ___ imaginando o que a vida trará a seguir<br>
+  73. I ___ not perfect, but I try my best - Eu ___ não sou perfeito, mas faço o meu melhor<br>
+  74. I ___ aware that change takes time - Eu ___ ciente de que a mudança leva tempo<br>
+  75. I ___ getting stronger each week - Eu ___ ficando mais forte a cada semana<br>
+  76. I ___ finally at peace with myself - Eu ___ finalmente em paz comigo mesmo<br>
+  77. I ___ learning that rest is important - Eu ___ aprendendo que descansar é importante<br>
+  78. Every morning I ___ thankful to be alive - Todas as manhãs eu ___ grato por estar vivo<br>
+  79. I ___ confident that effort brings results - Eu ___ confiante de que o esforço traz resultados<br>
+  80. When I wake up early, I ___ more productive - Quando acordo cedo, eu ___ mais produtivo<br>
+  81. I ___ the one who always keeps promises - Eu ___ aquele que sempre cumpre promessas<br>
+  82. I ___ always open to learning new things - Eu ___ sempre aberto a aprender coisas novas<br>
+  83. I ___ doing my best to stay positive - Eu ___ fazendo o meu melhor para manter-me positivo<br>
+  84. I ___ certain I chose the right path - Eu ___ certo de que escolhi o caminho certo<br>
+  85. Even when I ___ wrong, I learn something - Mesmo quando eu ___ errado, eu aprendo algo<br>
+  86. I ___ more organized than I used to be - Eu ___ mais organizado do que costumava ser<br>
+  87. I ___ constantly trying to improve my focus - Eu ___ constantemente tentando melhorar meu foco<br>
+  88. I ___ the kind of person who plans ahead - Eu ___ o tipo de pessoa que planeja com antecedência<br>
+  89. Whenever I feel anxious, I ___ breathing deeply - Sempre que me sinto ansioso, eu ___ respirando profundamente<br>
+  90. I ___ learning to enjoy quiet moments - Eu ___ aprendendo a apreciar momentos tranquilos<br>
+  91. I ___ finding joy in simple things - Eu ___ encontrando alegria nas coisas simples<br>
+  92. I ___ taking better care of myself - Eu ___ cuidando melhor de mim mesmo<br>
+  93. I ___ becoming more patient with others - Eu ___ tornando-me mais paciente com os outros<br>
+  94. When I make mistakes, I ___ quick to fix them - Quando cometo erros, eu ___ rápido para corrigi-los<br>
+  95. I ___ now aware of my limits and goals - Eu ___ agora ciente dos meus limites e objetivos<br>
+  96. I ___ careful with how I spend my time - Eu ___ cuidadoso com como gasto meu tempo<br>
+  97. I ___ grateful for my progress so far - Eu ___ grato pelo meu progresso até agora<br>
+  98. I ___ planning my future step by step - Eu ___ planejando meu futuro passo a passo<br>
+  99. I ___ finally understanding what matters - Eu ___ finalmente entendendo o que importa<br>
+  100. I ___ proud to be who I am - Eu ___ orgulhoso de ser quem eu sou<br>
+</p>
+
+<p id="text-popup-is" class="hidden">
+
+  <br>------------ Easy - Fácil ------------<br><br>
+
+  1. She ___ happy today - Ela ___ feliz hoje<br>
+  2. He ___ at home - Ele ___ em casa<br>
+  3. It ___ raining now - Está ___ chovendo agora<br>
+  4. She ___ reading a book - Ela ___ lendo um livro<br>
+  5. He ___ eating lunch - Ele ___ almoçando<br>
+  6. It ___ getting dark - Está ___ escurecendo<br>
+  7. She ___ watching TV - Ela ___ assistindo TV<br>
+  8. He ___ playing a game - Ele ___ jogando um jogo<br>
+  9. It ___ cold outside - Está ___ frio lá fora<br>
+  10. She ___ studying English - Ela ___ estudando inglês<br>
+  11. He ___ talking to his friend - Ele ___ conversando com seu amigo<br>
+  12. It ___ almost time for dinner - Está ___ quase na hora do jantar<br>
+  13. She ___ listening to music - Ela ___ ouvindo música<br>
+  14. He ___ drinking coffee - Ele ___ bebendo café<br>
+  15. It ___ very quiet here - Está ___ muito silencioso aqui<br>
+  16. She ___ working today - Ela ___ trabalhando hoje<br>
+  17. He ___ ready to leave - Ele ___ pronto para sair<br>
+  18. It ___ really late - Está ___ muito tarde<br>
+  19. She ___ at the store - Ela ___ na loja<br>
+  20. He ___ on the phone - Ele ___ ao telefone<br>
+
+  <br>------------ Medium - Médio ------------<br><br>
+  
+  21. She always forgets where her bag ___ - Ela sempre esquece onde a bolsa dela ___<br>
+  22. The coffee ___ getting cold - O café ___ esfriando<br>
+  23. He ___ not ready yet - Ele ___ ainda não está pronto<br>
+  24. The room ___ full of people - O quarto ___ cheio de pessoas<br>
+  25. She ___ interested in that movie - Ela ___ interessada naquele filme<br>
+  26. He ___ the one who helped me - Ele ___ quem me ajudou<br>
+  27. The food ___ delicious tonight - A comida ___ deliciosa esta noite<br>
+  28. She ___ learning something new - Ela ___ aprendendo algo novo<br>
+  29. He ___ not sure about the plan - Ele ___ não tem certeza sobre o plano<br>
+  30. It ___ really beautiful outside - Está ___ realmente bonito lá fora<br>
+  31. She ___ looking for her notebook - Ela ___ procurando seu caderno<br>
+  32. He ___ waiting at the bus stop - Ele ___ esperando no ponto de ônibus<br>
+  33. The problem ___ not easy to solve - O problema ___ não é fácil de resolver<br>
+  34. She ___ tired after work - Ela ___ cansada depois do trabalho<br>
+  35. He ___ really focused right now - Ele ___ realmente focado agora<br>
+  36. It ___ not a good time to call - Não ___ um bom momento para ligar<br>
+  37. She ___ happy with her progress - Ela ___ feliz com seu progresso<br>
+  38. The window ___ open again - A janela ___ aberta novamente<br>
+  39. He ___ the person I was talking about - Ele ___ a pessoa sobre quem eu estava falando<br>
+  40. The house ___ clean and quiet - A casa ___ limpa e silenciosa<br>
+  41. She ___ always kind to others - Ela ___ sempre gentil com os outros<br>
+  42. The reason she left ___ still unknown - A razão pela qual ela saiu ___ ainda desconhecida<br>
+  43. He ___ late because of the rain - Ele ___ atrasado por causa da chuva<br>
+  44. The music ___ louder than before - A música ___ mais alta do que antes<br>
+  45. She ___ the only one who noticed - Ela ___ a única que percebeu<br>
+  46. The door ___ locked from inside - A porta ___ trancada por dentro<br>
+  47. He ___ definitely smarter than he looks - Ele ___ definitivamente mais inteligente do que parece<br>
+  48. The project ___ almost finished - O projeto ___ quase finalizado<br>
+  49. She ___ proud of her friends - Ela ___ orgulhosa de seus amigos<br>
+  50. The weather ___ changing quickly today - O tempo ___ mudando rapidamente hoje<br>
+
+  <br>------------ Hard - Difícil ------------<br><br>
+  
+  51. The reason she ___ nervous is clear now - A razão pela qual ela ___ nervosa está clara agora<br>
+  52. He ___ not the same person anymore - Ele ___ não é mais a mesma pessoa<br>
+  53. The idea ___ interesting but risky - A ideia ___ interessante, mas arriscada<br>
+  54. What ___ he trying to say exactly - O que ___ ele tentando dizer exatamente<br>
+  55. The phone ___ ringing non-stop - O telefone ___ tocando sem parar<br>
+  56. The child ___ curious about everything - A criança ___ curiosa sobre tudo<br>
+  57. The park ___ full of people this morning - O parque ___ cheio de pessoas esta manhã<br>
+  58. He ___ always there when I need help - Ele ___ sempre lá quando preciso de ajuda<br>
+  59. She ___ not afraid to take risks - Ela ___ não tem medo de correr riscos<br>
+  60. The story ___ longer than I expected - A história ___ mais longa do que eu esperava<br>
+  61. Everyone knows he ___ hardworking - Todos sabem que ele ___ trabalhador<br>
+  62. The cat ___ hiding under the bed again - O gato ___ se escondendo de novo debaixo da cama<br>
+  63. What she ___ saying makes sense now - O que ela ___ dizendo faz sentido agora<br>
+  64. The laptop ___ running out of battery - O notebook ___ ficando sem bateria<br>
+  65. He ___ preparing for the big test - Ele ___ se preparando para a grande prova<br>
+  66. The light ___ still on in the kitchen - A luz ___ ainda acesa na cozinha<br>
+  67. She ___ probably thinking about tomorrow - Ela ___ provavelmente pensando em amanhã<br>
+  68. It ___ clear that something changed - Está ___ claro que algo mudou<br>
+  69. The meeting ___ going to be long - A reunião ___ vai ser longa<br>
+  70. The street ___ empty after midnight - A rua ___ vazia depois da meia-noite<br>
+  71. What she ___ planning seems exciting - O que ela ___ planejando parece empolgante<br>
+  72. The reason he ___ upset isn’t obvious - A razão pela qual ele ___ chateado não é óbvia<br>
+  73. It ___ amazing how quickly time passes - É ___ incrível como o tempo passa rápido<br>
+  74. The food ___ much better this time - A comida ___ muito melhor desta vez<br>
+  75. What he ___ doing looks difficult - O que ele ___ fazendo parece difícil<br>
+  76. The dog ___ waiting by the door - O cachorro ___ esperando perto da porta<br>
+  77. She ___ already at the station - Ela ___ já está na estação<br>
+  78. It ___ nice to see everyone smiling - É ___ bom ver todos sorrindo<br>
+  79. The teacher ___ explaining the lesson again - O professor ___ explicando a lição novamente<br>
+  80. He ___ learning faster than before - Ele ___ aprendendo mais rápido do que antes<br>
+  81. The store ___ closing soon - A loja ___ fechando em breve<br>
+  82. What ___ happening outside right now - O que ___ acontecendo lá fora agora<br>
+  83. The baby ___ finally asleep - O bebê ___ finalmente dormindo<br>
+  84. She ___ dreaming about her next trip - Ela ___ sonhando com sua próxima viagem<br>
+  85. He ___ getting better every day - Ele ___ melhorando a cada dia<br>
+  86. The sky ___ full of bright stars tonight - O céu ___ cheio de estrelas brilhantes esta noite<br>
+  87. She ___ someone who never gives up - Ela ___ alguém que nunca desiste<br>
+  88. The garden ___ beautiful in the morning - O jardim ___ bonito pela manhã<br>
+  89. What he ___ thinking remains a mystery - O que ele ___ pensando continua sendo um mistério<br>
+  90. The bus ___ leaving in five minutes - O ônibus ___ saindo em cinco minutos<br>
+  91. It ___ strange how quiet the city feels - É ___ estranho como a cidade parece silenciosa<br>
+  92. She ___ looking forward to the weekend - Ela ___ ansiosa pelo fim de semana<br>
+  93. The plan ___ starting to make sense - O plano ___ começando a fazer sentido<br>
+  94. He ___ reading the same book again - Ele ___ lendo o mesmo livro novamente<br>
+  95. The water ___ too cold for swimming - A água ___ muito fria para nadar<br>
+  96. She ___ thankful for small moments - Ela ___ grata por pequenos momentos<br>
+  97. He ___ always curious about new things - Ele ___ sempre curioso sobre coisas novas<br>
+  98. The kitchen ___ filled with good smells - A cozinha ___ cheia de bons cheiros<br>
+  99. It ___ finally time to go home - Finalmente ___ hora de ir para casa<br>
+  100. The day ___ ending peacefully - O dia ___ terminando em paz<br>
+</p>
+
+
+<p id="text-popup-are" class='hidden'>
+
+  <br>------------ Easy - Fácil ------------<br><br>
+
+  1. They ___ happy today - Eles estão felizes hoje<br>
+  2. You ___ my friend - Você é meu amigo<br>
+  3. We ___ ready now - Nós estamos prontos agora<br>
+  4. They ___ eating lunch - Eles estão almoçando<br>
+  5. You ___ watching TV - Você está assistindo TV<br>
+  6. We ___ learning English - Nós estamos aprendendo inglês<br>
+  7. They ___ talking to friends - Eles estão conversando com amigos<br>
+  8. You ___ doing great - Você está indo muito bem<br>
+  9. We ___ at the park - Nós estamos no parque<br>
+  10. They ___ working hard - Eles estão trabalhando duro<br>
+  11. You ___ studying now - Você está estudando agora<br>
+  12. We ___ playing a game - Nós estamos jogando um jogo<br>
+  13. They ___ at home - Eles estão em casa<br>
+  14. You ___ helping me - Você está me ajudando<br>
+  15. We ___ going to bed - Nós estamos indo dormir<br>
+  16. They ___ busy today - Eles estão ocupados hoje<br>
+  17. You ___ listening to music - Você está ouvindo música<br>
+  18. We ___ drinking coffee - Nós estamos bebendo café<br>
+  19. They ___ waiting for the bus - Eles estão esperando o ônibus<br>
+  20. You ___ at the store - Você está na loja<br>
+
+  <br>------------ Medium - Médio ------------<br><br>
+
+  21. When you ___ free, call me - Quando você estiver livre, me ligue<br>
+  22. They ___ usually late for class - Eles geralmente se atrasam para a aula<br>
+  23. We ___ not sure what to do - Nós não temos certeza do que fazer<br>
+  24. You ___ the ones who cleaned the room - Vocês são os que limparam o quarto<br>
+  25. They ___ excited about the trip - Eles estão animados com a viagem<br>
+  26. We ___ ready to leave now - Nós estamos prontos para sair agora<br>
+  27. You ___ better than before - Você está melhor do que antes<br>
+  28. They ___ all watching the same movie - Eles estão todos assistindo o mesmo filme<br>
+  29. We ___ not interested in that topic - Nós não estamos interessados nesse assunto<br>
+  30. You ___ always kind to others - Você é sempre gentil com os outros<br>
+  31. They ___ playing soccer after school - Eles estão jogando futebol depois da escola<br>
+  32. We ___ waiting outside in the cold - Nós estamos esperando do lado de fora no frio<br>
+  33. You ___ good at remembering details - Você é bom em lembrar detalhes<br>
+  34. They ___ the people from our class - Eles são as pessoas da nossa turma<br>
+  35. We ___ happy to help anytime - Nós estamos felizes em ajudar a qualquer momento<br>
+  36. You ___ really improving fast - Você está realmente melhorando rápido<br>
+  37. They ___ not paying attention again - Eles não estão prestando atenção de novo<br>
+  38. We ___ sitting near the window - Nós estamos sentados perto da janela<br>
+  39. You ___ late because of traffic - Você está atrasado por causa do trânsito<br>
+  40. They ___ proud of their achievements - Eles estão orgulhosos de suas conquistas<br>
+  41. We ___ trying to stay positive - Nós estamos tentando manter o pensamento positivo<br>
+  42. You ___ part of this project too - Você faz parte deste projeto também<br>
+  43. They ___ tired but still smiling - Eles estão cansados, mas ainda sorrindo<br>
+  44. We ___ learning new skills together - Nós estamos aprendendo novas habilidades juntos<br>
+  45. You ___ not listening to instructions - Você não está ouvindo as instruções<br>
+  46. They ___ helping clean the house - Eles estão ajudando a limpar a casa<br>
+  47. We ___ glad you joined us - Nós estamos felizes que você se juntou a nós<br>
+  48. You ___ supposed to bring snacks - Você deveria trazer os lanches<br>
+  49. They ___ already waiting for us - Eles já estão esperando por nós<br>
+  50. We ___ doing better this time - Nós estamos indo melhor desta vez<br>
+
+  <br>------------ Hard - Difícil ------------<br><br>
+
+  51. You ___ the reason this works so well - Você é a razão de isso funcionar tão bem<br>
+  52. They ___ not the same people anymore - Eles não são mais as mesmas pessoas<br>
+  53. We ___ trying to make things right - Nós estamos tentando acertar as coisas<br>
+  54. You ___ becoming more confident every day - Você está ficando mais confiante a cada dia<br>
+  55. They ___ preparing for the test tomorrow - Eles estão se preparando para o teste amanhã<br>
+  56. We ___ getting closer to the goal - Nós estamos chegando mais perto do objetivo<br>
+  57. You ___ responsible for your own progress - Você é responsável pelo seu próprio progresso<br>
+  58. They ___ building something amazing together - Eles estão construindo algo incrível juntos<br>
+  59. We ___ learning from each mistake we make - Nós estamos aprendendo com cada erro que cometemos<br>
+  60. You ___ always welcome here - Você é sempre bem-vindo aqui<br>
+  61. They ___ talking about the future again - Eles estão falando sobre o futuro novamente<br>
+  62. We ___ hoping things improve soon - Nós estamos esperando que as coisas melhorem em breve<br>
+  63. You ___ not alone in this situation - Você não está sozinho nesta situação<br>
+  64. They ___ part of a bigger plan - Eles fazem parte de um plano maior<br>
+  65. We ___ aware that time is short - Nós estamos cientes de que o tempo é curto<br>
+  66. You ___ growing stronger every day - Você está ficando mais forte a cada dia<br>
+  67. They ___ helping each other succeed - Eles estão ajudando uns aos outros a ter sucesso<br>
+  68. We ___ working on new ideas lately - Nós estamos trabalhando em novas ideias ultimamente<br>
+  69. You ___ trying your best, I know - Você está se esforçando ao máximo, eu sei<br>
+  70. They ___ ready for the next challenge - Eles estão prontos para o próximo desafio<br>
+  71. We ___ excited to see what happens next - Nós estamos empolgados para ver o que vem a seguir<br>
+  72. You ___ one of the best students here - Você é um dos melhores alunos aqui<br>
+  73. They ___ focused on finishing their project - Eles estão focados em terminar o projeto<br>
+  74. We ___ proud of our achievements - Nós estamos orgulhosos de nossas conquistas<br>
+  75. You ___ making great progress this week - Você está fazendo grandes progressos esta semana<br>
+  76. They ___ improving their teamwork skills - Eles estão melhorando suas habilidades de trabalho em equipe<br>
+  77. We ___ grateful for this opportunity - Nós somos gratos por esta oportunidade<br>
+  78. You ___ becoming more creative every day - Você está se tornando mais criativo a cada dia<br>
+  79. They ___ helping others without expecting anything - Eles estão ajudando os outros sem esperar nada<br>
+  80. We ___ sure that this will work - Nós temos certeza de que isso vai funcionar<br>
+  81. You ___ learning how to stay organized - Você está aprendendo a se manter organizado<br>
+  82. They ___ always willing to help - Eles estão sempre dispostos a ajudar<br>
+  83. We ___ starting to believe in ourselves - Nós estamos começando a acreditar em nós mesmos<br>
+  84. You ___ doing better than last month - Você está indo melhor do que no mês passado<br>
+  85. They ___ planning a trip together - Eles estão planejando uma viagem juntos<br>
+  86. We ___ meeting after lunch today - Nós estamos nos encontrando após o almoço hoje<br>
+  87. You ___ learning faster than before - Você está aprendendo mais rápido do que antes<br>
+  88. They ___ growing more confident each day - Eles estão ficando mais confiantes a cada dia<br>
+  89. We ___ becoming good friends - Nós estamos nos tornando bons amigos<br>
+  90. You ___ always trying to do your best - Você está sempre tentando fazer o seu melhor<br>
+  91. They ___ doing everything they can - Eles estão fazendo tudo o que podem<br>
+  92. We ___ hoping for good news soon - Nós estamos esperando boas notícias em breve<br>
+  93. You ___ ready for the next level - Você está pronto para o próximo nível<br>
+  94. They ___ making changes to their routine - Eles estão fazendo mudanças na rotina deles<br>
+  95. We ___ focused on improving every detail - Nós estamos focados em melhorar cada detalhe<br>
+  96. You ___ part of something bigger than yourself - Você faz parte de algo maior do que você mesmo<br>
+  97. They ___ taking care of each other - Eles estão cuidando uns dos outros<br>
+  98. We ___ reaching the end of this journey - Nós estamos chegando ao fim desta jornada<br>
+  99. You ___ stronger than you think - Você é mais forte do que pensa<br>
+  100. They ___ thankful for what they have - Eles são gratos pelo que têm<br>
+</p>
+
+<button class="close-popup">Fechar</button>

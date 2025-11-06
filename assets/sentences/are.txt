@@ -1,100 +1,100 @@
-They ___ happy today
-You ___ my friend
-We ___ ready now
-They ___ eating lunch
-You ___ watching TV
-We ___ learning English
-They ___ talking to friends
-You ___ doing great
-We ___ at the park
-They ___ working hard
-You ___ studying now
-We ___ playing a game
-They ___ at home
-You ___ helping me
-We ___ going to bed
-They ___ busy today
-You ___ listening to music
-We ___ drinking coffee
-They ___ waiting for the bus
-You ___ at the store
-When you ___ free, call me
-They ___ usually late for class
-We ___ not sure what to do
-You ___ the ones who cleaned the room
-They ___ excited about the trip
-We ___ ready to leave now
-You ___ better than before
-They ___ all watching the same movie
-We ___ not interested in that topic
-You ___ always kind to others
-They ___ playing soccer after school
-We ___ waiting outside in the cold
-You ___ good at remembering details
-They ___ the people from our class
-We ___ happy to help anytime
-You ___ really improving fast
-They ___ not paying attention again
-We ___ sitting near the window
-You ___ late because of traffic
-They ___ proud of their achievements
-We ___ trying to stay positive
-You ___ part of this project too
-They ___ tired but still smiling
-We ___ learning new skills together
-You ___ not listening to instructions
-They ___ helping clean the house
-We ___ glad you joined us
-You ___ supposed to bring snacks
-They ___ already waiting for us
-We ___ doing better this time
-You ___ the reason this works so well
-They ___ not the same people anymore
-We ___ trying to make things right
-You ___ becoming more confident every day
-They ___ preparing for the test tomorrow
-We ___ getting closer to the goal
-You ___ responsible for your own progress
-They ___ building something amazing together
-We ___ learning from each mistake we make
-You ___ always welcome here
-They ___ talking about the future again
-We ___ hoping things improve soon
-You ___ not alone in this situation
-They ___ part of a bigger plan
-We ___ aware that time is short
-You ___ growing stronger every day
-They ___ helping each other succeed
-We ___ working on new ideas lately
-You ___ trying your best, I know
-They ___ ready for the next challenge
-We ___ excited to see what happens next
-You ___ one of the best students here
-They ___ focused on finishing their project
-We ___ proud of our achievements
-You ___ making great progress this week
-They ___ improving their teamwork skills
-We ___ grateful for this opportunity
-You ___ becoming more creative every day
-They ___ helping others without expecting anything
-We ___ sure that this will work
-You ___ learning how to stay organized
-They ___ always willing to help
-We ___ starting to believe in ourselves
-You ___ doing better than last month
-They ___ planning a trip together
-We ___ meeting after lunch today
-You ___ learning faster than before
-They ___ growing more confident each day
-We ___ becoming good friends
-You ___ always trying to do your best
-They ___ doing everything they can
-We ___ hoping for good news soon
-You ___ ready for the next level
-They ___ making changes to their routine
-We ___ focused on improving every detail
-You ___ part of something bigger than yourself
-They ___ taking care of each other
-We ___ reaching the end of this journey
-You ___ stronger than you think
-They ___ thankful for what they have
+1. They ___ happy today
+2. You ___ my friend
+3. We ___ ready now
+4. They ___ eating lunch
+5. You ___ watching TV
+6. We ___ learning English
+7. They ___ talking to friends
+8. You ___ doing great
+9. We ___ at the park
+10. They ___ working hard
+11. You ___ studying now
+12. We ___ playing a game
+13. They ___ at home
+14. You ___ helping me
+15. We ___ going to bed
+16. They ___ busy today
+17. You ___ listening to music
+18. We ___ drinking coffee
+19. They ___ waiting for the bus
+20. You ___ at the store
+21. When you ___ free, call me
+22. They ___ usually late for class
+23. We ___ not sure what to do
+24. You ___ the ones who cleaned the room
+25. They ___ excited about the trip
+26. We ___ ready to leave now
+27. You ___ better than before
+28. They ___ all watching the same movie
+29. We ___ not interested in that topic
+30. You ___ always kind to others
+31. They ___ playing soccer after school
+32. We ___ waiting outside in the cold
+33. You ___ good at remembering details
+34. They ___ the people from our class
+35. We ___ happy to help anytime
+36. You ___ really improving fast
+37. They ___ not paying attention again
+38. We ___ sitting near the window
+39. You ___ late because of traffic
+40. They ___ proud of their achievements
+41. We ___ trying to stay positive
+42. You ___ part of this project too
+43. They ___ tired but still smiling
+44. We ___ learning new skills together
+45. You ___ not listening to instructions
+46. They ___ helping clean the house
+47. We ___ glad you joined us
+48. You ___ supposed to bring snacks
+49. They ___ already waiting for us
+50. We ___ doing better this time
+51. You ___ the reason this works so well
+52. They ___ not the same people anymore
+53. We ___ trying to make things right
+54. You ___ becoming more confident every day
+55. They ___ preparing for the test tomorrow
+56. We ___ getting closer to the goal
+57. You ___ responsible for your own progress
+58. They ___ building something amazing together
+59. We ___ learning from each mistake we make
+60. You ___ always welcome here
+61. They ___ talking about the future again
+62. We ___ hoping things improve soon
+63. You ___ not alone in this situation
+64. They ___ part of a bigger plan
+65. We ___ aware that time is short
+66. You ___ growing stronger every day
+67. They ___ helping each other succeed
+68. We ___ working on new ideas lately
+69. You ___ trying your best, I know
+70. They ___ ready for the next challenge
+71. We ___ excited to see what happens next
+72. You ___ one of the best students here
+73. They ___ focused on finishing their project
+74. We ___ proud of our achievements
+75. You ___ making great progress this week
+76. They ___ improving their teamwork skills
+77. We ___ grateful for this opportunity
+78. You ___ becoming more creative every day
+79. They ___ helping others without expecting anything
+80. We ___ sure that this will work
+81. You ___ learning how to stay organized
+82. They ___ always willing to help
+83. We ___ starting to believe in ourselves
+84. You ___ doing better than last month
+85. They ___ planning a trip together
+86. We ___ meeting after lunch today
+87. You ___ learning faster than before
+88. They ___ growing more confident each day
+89. We ___ becoming good friends
+90. You ___ always trying to do your best
+91. They ___ doing everything they can
+92. We ___ hoping for good news soon
+93. You ___ ready for the next level
+94. They ___ making changes to their routine
+95. We ___ focused on improving every detail
+96. You ___ part of something bigger than yourself
+97. They ___ taking care of each other
+98. We ___ reaching the end of this journey
+99. You ___ stronger than you think
+100. They ___ thankful for what they have

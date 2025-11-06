@@ -7,16 +7,26 @@ const buttonAre = document.querySelector('#button-are');
 
 const buttonContinue = document.querySelector('#button-continue');
 
-const difficulty = document.querySelector('#difficulty');
 const difficulty20 = document.querySelector('#difficulty-20');
 const difficulty50 = document.querySelector('#difficulty-50');
 const difficulty100 = document.querySelector('#difficulty-100');
 const difficultyShower = document.querySelector('#difficulty-shower');
 
+const showInfo = document.querySelector('#show-info');
+
 let sentencesAmount = 20;
 let currentType;
 
 let types, sentencesAm, sentencesIs, sentencesAre;
+
+let popupHtml;
+
+fetch('/assets/data/verbToBeSentences.txt')
+  .then(res => res.text())
+  .then(text => {
+    popupHtml = text
+    console.log(text)
+  })
 
 fetch('/api/sentence')
   .then(res => res.json())
@@ -66,3 +76,4 @@ buttonContinue.addEventListener('click', () => showSentence());
 difficulty20.addEventListener('click', () => chooseDifficulty(20));
 difficulty50.addEventListener('click', () => chooseDifficulty(50));
 difficulty100.addEventListener('click', () => chooseDifficulty(100));
+showInfo.addEventListener('click', () => createPopup(popupHtml));

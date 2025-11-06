@@ -14,7 +14,7 @@
 .popup-box {
     background: #fff;
     border-radius: 6px;
-    width: 360px;
+    width: 500px;
     max-height: 80vh;
     display: flex;
     flex-direction: column;
@@ -25,13 +25,16 @@
 /* Scrollable horizontal button bar */
 #popup-buttons {
     display: flex;
+    flex-shrink: 0;
     border-bottom: 1px solid #ccc;
     overflow-x: auto;
+    white-space: nowrap;
     scrollbar-width: thin;
     scrollbar-color: #ccc transparent;
+    background: #fafafa;
 }
 
-/* Prevent buttons from shrinking */
+/* Individual buttons */
 #popup-buttons button {
     flex: 0 0 auto;
     padding: 10px 15px;
@@ -44,7 +47,6 @@
     transition: background 0.2s;
 }
 
-/* Optional: small visual feedback */
 #popup-buttons button:hover {
     background: #f5f5f5;
 }
@@ -55,6 +57,7 @@
     font-weight: bold;
 }
 
+/* Text content */
 .popup-box p {
     margin: 0;
     padding: 15px;
@@ -62,8 +65,10 @@
     overflow-y: auto;
     flex: 1;
     line-height: 1.4;
+    text-align: left;
 }
 
+/* Hide unused text sections */
 .hidden {
     display: none;
 }
@@ -79,6 +84,7 @@
     cursor: pointer;
     border-top: 1px solid #ccc;
     transition: background 0.2s;
+    flex-shrink: 0;
 }
 
 .close-popup:hover {

@@ -1,100 +1,100 @@
-She ___ happy today
-He ___ at home
-It ___ raining now
-She ___ reading a book
-He ___ eating lunch
-It ___ getting dark
-She ___ watching TV
-He ___ playing a game
-It ___ cold outside
-She ___ studying English
-He ___ talking to his friend
-It ___ almost time for dinner
-She ___ listening to music
-He ___ drinking coffee
-It ___ very quiet here
-She ___ working today
-He ___ ready to leave
-It ___ really late
-She ___ at the store
-He ___ on the phone
-She always forgets where her bag ___
-The coffee ___ getting cold
-He ___ not ready yet
-The room ___ full of people
-She ___ interested in that movie
-He ___ the one who helped me
-The food ___ delicious tonight
-She ___ learning something new
-He ___ not sure about the plan
-It ___ really beautiful outside
-She ___ looking for her notebook
-He ___ waiting at the bus stop
-The problem ___ not easy to solve
-She ___ tired after work
-He ___ really focused right now
-It ___ not a good time to call
-She ___ happy with her progress
-The window ___ open again
-He ___ the person I was talking about
-The house ___ clean and quiet
-She ___ always kind to others
-The reason she left ___ still unknown
-He ___ late because of the rain
-The music ___ louder than before
-She ___ the only one who noticed
-The door ___ locked from inside
-He ___ definitely smarter than he looks
-The project ___ almost finished
-She ___ proud of her friends
-The weather ___ changing quickly today
-The reason she ___ nervous is clear now
-He ___ not the same person anymore
-The idea ___ interesting but risky
-What ___ he trying to say exactly
-The phone ___ ringing non-stop
-The child ___ curious about everything
-The park ___ full of people this morning
-He ___ always there when I need help
-She ___ not afraid to take risks
-The story ___ longer than I expected
-Everyone knows he ___ hardworking
-The cat ___ hiding under the bed again
-What she ___ saying makes sense now
-The laptop ___ running out of battery
-He ___ preparing for the big test
-The light ___ still on in the kitchen
-She ___ probably thinking about tomorrow
-It ___ clear that something changed
-The meeting ___ going to be long
-The street ___ empty after midnight
-What she ___ planning seems exciting
-The reason he ___ upset isn’t obvious
-It ___ amazing how quickly time passes
-The food ___ much better this time
-What he ___ doing looks difficult
-The dog ___ waiting by the door
-She ___ already at the station
-It ___ nice to see everyone smiling
-The teacher ___ explaining the lesson again
-He ___ learning faster than before
-The store ___ closing soon
-What ___ happening outside right now
-The baby ___ finally asleep
-She ___ dreaming about her next trip
-He ___ getting better every day
-The sky ___ full of bright stars tonight
-She ___ someone who never gives up
-The garden ___ beautiful in the morning
-What he ___ thinking remains a mystery
-The bus ___ leaving in five minutes
-It ___ strange how quiet the city feels
-She ___ looking forward to the weekend
-The plan ___ starting to make sense
-He ___ reading the same book again
-The water ___ too cold for swimming
-She ___ thankful for small moments
-He ___ always curious about new things
-The kitchen ___ filled with good smells
-It ___ finally time to go home
-The day ___ ending peacefully
+1. She ___ happy today
+2. He ___ at home
+3. It ___ raining now
+4. She ___ reading a book
+5. He ___ eating lunch
+6. It ___ getting dark
+7. She ___ watching TV
+8. He ___ playing a game
+9. It ___ cold outside
+10. She ___ studying English
+11. He ___ talking to his friend
+12. It ___ almost time for dinner
+13. She ___ listening to music
+14. He ___ drinking coffee
+15. It ___ very quiet here
+16. She ___ working today
+17. He ___ ready to leave
+18. It ___ really late
+19. She ___ at the store
+20. He ___ on the phone
+21. She always forgets where her bag ___
+22. The coffee ___ getting cold
+23. He ___ not ready yet
+24. The room ___ full of people
+25. She ___ interested in that movie
+26. He ___ the one who helped me
+27. The food ___ delicious tonight
+28. She ___ learning something new
+29. He ___ not sure about the plan
+30. It ___ really beautiful outside
+31. She ___ looking for her notebook
+32. He ___ waiting at the bus stop
+33. The problem ___ not easy to solve
+34. She ___ tired after work
+35. He ___ really focused right now
+36. It ___ not a good time to call
+37. She ___ happy with her progress
+38. The window ___ open again
+39. He ___ the person I was talking about
+40. The house ___ clean and quiet
+41. She ___ always kind to others
+42. The reason she left ___ still unknown
+43. He ___ late because of the rain
+44. The music ___ louder than before
+45. She ___ the only one who noticed
+46. The door ___ locked from inside
+47. He ___ definitely smarter than he looks
+48. The project ___ almost finished
+49. She ___ proud of her friends
+50. The weather ___ changing quickly today
+51. The reason she ___ nervous is clear now
+52. He ___ not the same person anymore
+53. The idea ___ interesting but risky
+54. What ___ he trying to say exactly
+55. The phone ___ ringing non-stop
+56. The child ___ curious about everything
+57. The park ___ full of people this morning
+58. He ___ always there when I need help
+59. She ___ not afraid to take risks
+60. The story ___ longer than I expected
+61. Everyone knows he ___ hardworking
+62. The cat ___ hiding under the bed again
+63. What she ___ saying makes sense now
+64. The laptop ___ running out of battery
+65. He ___ preparing for the big test
+66. The light ___ still on in the kitchen
+67. She ___ probably thinking about tomorrow
+68. It ___ clear that something changed
+69. The meeting ___ going to be long
+70. The street ___ empty after midnight
+71. What she ___ planning seems exciting
+72. The reason he ___ upset isn’t obvious
+73. It ___ amazing how quickly time passes
+74. The food ___ much better this time
+75. What he ___ doing looks difficult
+76. The dog ___ waiting by the door
+77. She ___ already at the station
+78. It ___ nice to see everyone smiling
+79. The teacher ___ explaining the lesson again
+80. He ___ learning faster than before
+81. The store ___ closing soon
+82. What ___ happening outside right now
+83. The baby ___ finally asleep
+84. She ___ dreaming about her next trip
+85. He ___ getting better every day
+86. The sky ___ full of bright stars tonight
+87. She ___ someone who never gives up
+88. The garden ___ beautiful in the morning
+89. What he ___ thinking remains a mystery
+90. The bus ___ leaving in five minutes
+91. It ___ strange how quiet the city feels
+92. She ___ looking forward to the weekend
+93. The plan ___ starting to make sense
+94. He ___ reading the same book again
+95. The water ___ too cold for swimming
+96. She ___ thankful for small moments
+97. He ___ always curious about new things
+98. The kitchen ___ filled with good smells
+99. It ___ finally time to go home
+100. The day ___ ending peacefully

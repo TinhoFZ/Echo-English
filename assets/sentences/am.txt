@@ -1,100 +1,100 @@
-I ___ happy today
-I ___ at school
-I ___ reading a book
-I ___ eating breakfast
-I ___ watching TV
-I ___ going to bed
-I ___ feeling great
-I ___ walking to work
-I ___ playing a game
-I ___ listening to music
-I ___ learning English
-I ___ writing my notes
-I ___ doing my homework
-I ___ studying now
-I ___ waiting for the bus
-I ___ at the park
-I ___ drinking coffee
-I ___ talking to my friend
-I ___ thinking about lunch
-I ___ ready for class
-In the morning, I ___ usually tired
-I always forget where I ___ supposed to be
-I ___ not sure what time it is
-Sometimes I ___ late for work
-I ___ the one who cleans the kitchen
-I ___ really focused on this task
-Right now, I ___ waiting outside
-When it rains, I ___ usually at home
-I ___ proud of my progress
-I ___ not interested in that movie
-I ___ feeling a bit nervous today
-Even when I ___ busy, I read a little
-I ___ not good at cooking yet
-I ___ still trying to improve
-People say I ___ too quiet sometimes
-When I ___ done, I’ll call you
-I ___ always early to meetings
-If I ___ correct, that’s her house
-I ___ enjoying the quiet this morning
-I ___ not sure how to say this
-I often wonder why I ___ so tired
-Sometimes I forget I ___ human
-I ___ learning to be patient
-I ___ finally starting to relax
-I ___ more confident than before
-When I ___ working, time passes fast
-I ___ lucky to have good friends
-I ___ happy you called me today
-Even when I ___ scared, I try again
-I ___ always trying to do better
-After a long day, I ___ completely exhausted
-I ___ not the kind of person who gives up
-The reason I ___ here is to learn
-I ___ certain that this will work
-When everyone’s asleep, I ___ still awake
-I ___ thinking about my next goal
-Some days I ___ full of energy, others not
-I ___ beginning to understand myself
-Even when I’m quiet, I ___ listening
-I ___ the only one who saw what happened
-Whenever I travel, I ___ amazed by people
-I ___ trying to find balance in my life
-I ___ not afraid to make mistakes anymore
-I ___ learning to manage my time better
-No matter what, I ___ grateful for today
-I ___ still unsure about the decision
-I ___ focused on small steps every day
-Whenever I feel lost, I ___ writing again
-I ___ proud of how far I’ve come
-I ___ ready to move forward
-After all these years, I ___ still curious
-I ___ wondering what life will bring next
-I ___ not perfect, but I try my best
-I ___ aware that change takes time
-I ___ getting stronger each week
-I ___ finally at peace with myself
-I ___ learning that rest is important
-Every morning I ___ thankful to be alive
-I ___ confident that effort brings results
-When I wake up early, I ___ more productive
-I ___ the one who always keeps promises
-I ___ always open to learning new things
-I ___ doing my best to stay positive
-I ___ certain I chose the right path
-Even when I ___ wrong, I learn something
-I ___ more organized than I used to be
-I ___ constantly trying to improve my focus
-I ___ the kind of person who plans ahead
-Whenever I feel anxious, I ___ breathing deeply
-I ___ learning to enjoy quiet moments
-I ___ finding joy in simple things
-I ___ taking better care of myself
-I ___ becoming more patient with others
-When I make mistakes, I ___ quick to fix them
-I ___ now aware of my limits and goals
-I ___ careful with how I spend my time
-I ___ grateful for my progress so far
-I ___ planning my future step by step
-I ___ finally understanding what matters
-I ___ proud to be who I am
+1. I ___ happy today
+2. I ___ at school
+3. I ___ reading a book
+4. I ___ eating breakfast
+5. I ___ watching TV
+6. I ___ going to bed
+7. I ___ feeling great
+8. I ___ walking to work
+9. I ___ playing a game
+10. I ___ listening to music
+11. I ___ learning English
+12. I ___ writing my notes
+13. I ___ doing my homework
+14. I ___ studying now
+15. I ___ waiting for the bus
+16. I ___ at the park
+17. I ___ drinking coffee
+18. I ___ talking to my friend
+19. I ___ thinking about lunch
+20. I ___ ready for class
+21. In the morning, I ___ usually tired
+22. I always forget where I ___ supposed to be
+23. I ___ not sure what time it is
+24. Sometimes I ___ late for work
+25. I ___ the one who cleans the kitchen
+26. I ___ really focused on this task
+27. Right now, I ___ waiting outside
+28. When it rains, I ___ usually at home
+29. I ___ proud of my progress
+30. I ___ not interested in that movie
+31. I ___ feeling a bit nervous today
+32. Even when I ___ busy, I read a little
+33. I ___ not good at cooking yet
+34. I ___ still trying to improve
+35. People say I ___ too quiet sometimes
+36. When I ___ done, I’ll call you
+37. I ___ always early to meetings
+38. If I ___ correct, that’s her house
+39. I ___ enjoying the quiet this morning
+40. I ___ not sure how to say this
+41. I often wonder why I ___ so tired
+42. Sometimes I forget I ___ human
+43. I ___ learning to be patient
+44. I ___ finally starting to relax
+45. I ___ more confident than before
+46. When I ___ working, time passes fast
+47. I ___ lucky to have good friends
+48. I ___ happy you called me today
+49. Even when I ___ scared, I try again
+50. I ___ always trying to do better
+51. After a long day, I ___ completely exhausted
+52. I ___ not the kind of person who gives up
+53. The reason I ___ here is to learn
+54. I ___ certain that this will work
+55. When everyone’s asleep, I ___ still awake
+56. I ___ thinking about my next goal
+57. Some days I ___ full of energy, others not
+58. I ___ beginning to understand myself
+59. Even when I’m quiet, I ___ listening
+60. I ___ the only one who saw what happened
+61. Whenever I travel, I ___ amazed by people
+62. I ___ trying to find balance in my life
+63. I ___ not afraid to make mistakes anymore
+64. I ___ learning to manage my time better
+65. No matter what, I ___ grateful for today
+66. I ___ still unsure about the decision
+67. I ___ focused on small steps every day
+68. Whenever I feel lost, I ___ writing again
+69. I ___ proud of how far I’ve come
+70. I ___ ready to move forward
+71. After all these years, I ___ still curious
+72. I ___ wondering what life will bring next
+73. I ___ not perfect, but I try my best
+74. I ___ aware that change takes time
+75. I ___ getting stronger each week
+76. I ___ finally at peace with myself
+77. I ___ learning that rest is important
+78. Every morning I ___ thankful to be alive
+79. I ___ confident that effort brings results
+80. When I wake up early, I ___ more productive
+81. I ___ the one who always keeps promises
+82. I ___ always open to learning new things
+83. I ___ doing my best to stay positive
+84. I ___ certain I chose the right path
+85. Even when I ___ wrong, I learn something
+86. I ___ more organized than I used to be
+87. I ___ constantly trying to improve my focus
+88. I ___ the kind of person who plans ahead
+89. Whenever I feel anxious, I ___ breathing deeply
+90. I ___ learning to enjoy quiet moments
+91. I ___ finding joy in simple things
+92. I ___ taking better care of myself
+93. I ___ becoming more patient with others
+94. When I make mistakes, I ___ quick to fix them
+95. I ___ now aware of my limits and goals
+96. I ___ careful with how I spend my time
+97. I ___ grateful for my progress so far
+98. I ___ planning my future step by step
+99. I ___ finally understanding what matters
+100. I ___ proud to be who I am

@@ -6,6 +6,8 @@ function createPopup(html) {
     popup.className = 'popup-box';
     popup.innerHTML = html;
 
+    console.log(popup)
+    console.log(popup.children)
     const buttonsContainer = popup.querySelector('#popup-buttons');
     const buttons = buttonsContainer.querySelectorAll('button');
     const contents = popup.querySelectorAll('p');
