@@ -1,3 +1,7 @@
+import { createPopup, createClickEvent } from "./popup.js";;
+import { correctSound, incorrectSound, score, highScore, scorePoint, resetScore } from "./scores.js";
+import { index, listening, goto, verbToBePage, listeningPage } from "./changePages.js";
+
 const sentence = document.querySelector ('#sentence');
 
 const options = document.querySelector('#options');
@@ -21,11 +25,10 @@ let types, sentencesAm, sentencesIs, sentencesAre;
 
 let popupHtml;
 
-fetch('/assets/data/verbToBeSentences.txt')
+fetch('/assets/data/verbToBePopupSentences.txt')
   .then(res => res.text())
   .then(text => {
     popupHtml = text
-    console.log(text)
   })
 
 fetch('/api/sentence')

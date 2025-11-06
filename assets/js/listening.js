@@ -1,3 +1,7 @@
+import { createPopup, createClickEvent } from "./popup.js";
+import { correctSound, incorrectSound, score, highScore, scorePoint, resetScore } from "./scores.js";
+import { index, listening, goto, verbToBePage, listeningPage } from "./changePages.js";
+
 const listen = document.querySelector('#listen');
 
 const answer = document.querySelector('#answer');
@@ -14,55 +18,6 @@ const buttonObjects = document.querySelector('#button-objects');
 const buttonAdjectives = document.querySelector('#button-adjectives');
 const buttonFunctionals = document.querySelector('#button-functionals');
 
-const popupHtml = `
-    <div id="popup-buttons">
-        <button id="popup-pronouns">Pronomes</button>
-        <button id="popup-verbs">Verbos</button>
-        <button id="popup-objects">Objetos</button>
-        <button id="popup-adjectives">Adjetivos</button>
-        <button id="popup-functionals">Funcionais</button>
-    </div>
-
-    <div id="popup-content">
-        <p id="text-popup-pronouns">👨‍🏫 Pronomes e Pessoas (10)<br>
-        I - eu<br>you - você<br>he - ele<br>she - ela<br>it - isso/ele/ela (objeto ou animal)<br>
-        we - nós<br>they - eles/elas<br>me - mim/me<br>him - ele/o<br>her - ela/a<br>
-        </p>
-
-        <p id="text-popup-verbs" class='hidden'>🕰️ Verbos Comuns (20)<br>
-        be - ser/estar<br>have - ter<br>do - fazer<br>go - ir<br>come - vir<br>see - ver<br>
-        get - obter/pegar<br>make - fazer/criar<br>say - dizer<br>want - querer<br>
-        like - gostar<br>know - saber/conhecer<br>think - pensar<br>need - precisar<br>
-        give - dar<br>take - levar/pegar<br>use - usar<br>find - encontrar<br>
-        call - chamar/ligar<br>work - trabalhar<br>
-        </p>
-
-        <p id="text-popup-objects" class='hidden'>🏠 Objetos e Lugares (20)<br>
-        house - casa<br>car - carro<br>school - escola<br>street - rua<br>book - livro<br>
-        door - porta<br>chair - cadeira<br>table - mesa<br>window - janela<br>phone - telefone<br>
-        bed - cama<br>room - quarto<br>pen - caneta<br>bag - bolsa/mochila<br>tree - árvore<br>
-        water - água<br>food - comida<br>shoe - sapato<br>city - cidade<br>store - loja<br>
-        </p>
-
-        <p id="text-popup-adjectives" class='hidden'>🎯 Adjetivos e Descrições (20)<br>
-        good - bom<br>bad - ruim<br>big - grande<br>small - pequeno<br>happy - feliz<br>
-        sad - triste<br>old - velho<br>young - jovem<br>hot - quente<br>cold - frio<br>
-        fast - rápido<br>slow - lento<br>easy - fácil<br>hard - difícil<br>new - novo<br>
-        long - longo<br>short - curto<br>nice - legal/simpático<br>clean - limpo<br>dirty - sujo<br>
-        </p>
-
-        <p id="text-popup-functionals" class='hidden'>💬 Palavras Funcionais e Frequentes (20)<br>
-        yes - sim<br>no - não<br>not - não<br>and - e<br>or - ou<br>but - mas<br>
-        in - em/dentro<br>on - sobre/em cima<br>at - em/no/na<br>under - debaixo<br>
-        up - acima<br>down - abaixo<br>to - para/a<br>from - de<br>with - com<br>
-        for - para/por<br>of - de<br>my - meu/minha<br>your - seu/sua<br>their - deles/delas<br>
-        </p>
-    </div>
-
-    <button class="close-popup">Fechar</button>
-`;
-
-
 let currentCategory = 0;
 let currentAudio;
 let solution;
@@ -75,7 +30,15 @@ let functionals = [];
 let categories = [pronouns, verbs, objects, adjectives, functionals];
 let titles = [];
 
-fetch('assets/sounds/words/words.json')
+let popupHtml;
+
+fetch('assets/data/audioPopupWords.txt')
+    .then(res => res.text())
+    .then(text => {
+        popupHtml = text;
+    })
+
+fetch('assets/data/audioWords.json')
     .then(res => res.json())
     .then(sounds => {
         sounds.pronouns.forEach(element => {
@@ -135,8 +98,19 @@ function checkAnswer() {
 }
 
 listen.addEventListener('click', () => currentAudio.play());
+inputAnswer.addEventListener('keydown', event => {
+    if(event.key == 'Enter'){
+        event.stopPropagation;
+        checkAnswer();
+    }
+});
 buttonAnswer.addEventListener('click', () => checkAnswer());
 buttonContinue.addEventListener('click', () => chooseAudio());
+document.addEventListener('keydown', event => {
+    if(finish.style.display != 'none' && event.key == 'Enter'){
+        chooseAudio();
+    }
+});
 buttonPronouns.addEventListener('click', () => {
     chooseCategory(pronouns)
     titles.forEach(audio => {

@@ -20,3 +20,5 @@ function resetScore() {
     score.style.color = 'red';
     score.innerText = 0;
 }
+
+export { correctSound, incorrectSound, score, highScore, scorePoint, resetScore }
